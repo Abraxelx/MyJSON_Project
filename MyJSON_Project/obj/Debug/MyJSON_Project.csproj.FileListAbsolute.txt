@@ -1,0 +1,12 @@
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\bin\Debug\MyJSON_Project.exe.config
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\bin\Debug\MyJSON_Project.exe
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\bin\Debug\MyJSON_Project.pdb
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\obj\Debug\MyJSON_Project.csprojResolveAssemblyReference.cache
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\obj\Debug\MyJSON_Project.Form1.resources
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\obj\Debug\MyJSON_Project.Properties.Resources.resources
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\obj\Debug\MyJSON_Project.csproj.GenerateResource.Cache
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\obj\Debug\MyJSON_Project.csproj.CoreCompileInputs.cache
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\obj\Debug\MyJSON_Project.exe
+C:\Users\Abraxel\source\repos\MyJSON_Project\MyJSON_Project\obj\Debug\MyJSON_Project.pdb
